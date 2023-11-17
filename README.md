@@ -8,13 +8,14 @@ This tool is heavily experimental!
 This tool allows you to load captured textures from rtx remix, convert them to png, upscale with ESRGAN or RealESRGAN, generate octahedral normals, roughness, metalness maps, and write it back to the existing rtx remix mod, or create a new one ( recomended ). 
 
 ## AI PBR Models
-You can download ai models from Alex's <a href="https://drive.google.com/file/d/1AKyWlZ75V0T6SvhaLwwIiCrJL3Cl_-s2/view?usp=sharing" >Gdrive</a> and from <a href="https://drive.google.com/file/d/1FAUugbC8uMSiSzm0FtR-Wa3pP81zXz3H/view?usp=sharing" > mine Gdrive</a> and <a href="https://pastebin.com/9cM3CgxS" > mine torrent (Magnet Link)</a>
+You can download old PBR ai models from Alex's <a href="https://drive.google.com/file/d/1AKyWlZ75V0T6SvhaLwwIiCrJL3Cl_-s2/view?usp=sharing" >Gdrive</a> and from <a href="https://drive.google.com/file/d/1FAUugbC8uMSiSzm0FtR-Wa3pP81zXz3H/view?usp=sharing" > mine Gdrive</a> and <a href="https://pastebin.com/9cM3CgxS" > mine torrent (Magnet Link)</a>
 
-Put the models to the
+Put the old models to the
   1. OctoTex/ai/PBR/checkpoints/disp
   2. OctoTex/ai/PBR/checkpoints/norm
-  3. OctoTex/ai/PBR/checkpoints/rough
 Folders!
+
+And <a href="https://drive.google.com/file/d/12xHNe7XNvMnVxStgSHVGGvZiEO4KjoGj/view?usp=sharing" >New Roughness Model on Gdrive</a>
 
 ## Attention
 If you don't want or cannot use upscaler, just drag all the textures from remixer/textures/processing/diffuse folder to the remixer/textures/processing/upscaled folder.
