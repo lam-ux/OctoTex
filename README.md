@@ -17,6 +17,10 @@ Folders!
 
 And <a href="https://drive.google.com/file/d/12xHNe7XNvMnVxStgSHVGGvZiEO4KjoGj/view?usp=sharing" >New Roughness Model on Gdrive</a>
 
+Put the new model to the
+  1. OctoTex/ai/PBR/checkpoints/rough
+Folder!
+
 ## Attention
 If you don't want or cannot use upscaler, just drag all the textures from remixer/textures/processing/diffuse folder to the remixer/textures/processing/upscaled folder.
 For the first time, all of the steps may take a while, then the process will be faster.
