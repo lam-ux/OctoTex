@@ -412,6 +412,12 @@ def load_captures():
     return f"{loaded} textures loaded!"
 
 
+def delete_texs():
+    import shutil
+    shutil.rmtree("./textures/processing")
+    clear_hashes()
+
+
 def write_mod():
     mod_dir = "OctoTexGUI"
     isExist = os.path.exists(f"{config.rtx_remix_dir}/mods/{mod_dir}")
