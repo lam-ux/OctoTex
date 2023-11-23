@@ -91,7 +91,7 @@ def install(texture, link):
 				z.extract(disp_file, f"plugins/ambientcg/extracted/")
 				z.extract(rough_file, f"plugins/ambientcg/extracted/")
 
-				shutil.move(f"plugins/ambientcg/extracted/{color_file}", f"textures/processing/upscaled/{texture}.png")
+				shutil.move(f"plugins/ambientcg/extracted/{color_file}", f"textures/processing/diffuse/{texture}.png")
 				shutil.move(f"plugins/ambientcg/extracted/{norm_file}", f"textures/processing/normaldx/{texture}_normal.png")
 				shutil.move(f"plugins/ambientcg/extracted/{disp_file}", f"textures/processing/displacements/{texture}_disp.png")
 				shutil.move(f"plugins/ambientcg/extracted/{rough_file}", f"textures/processing/roughness/{texture}_rough.png")

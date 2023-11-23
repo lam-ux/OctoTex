@@ -16,7 +16,7 @@ def img2img( address, prompt, texture, steps, strength ):
 
 	isExist = os.path.exists(f"textures/stable_diffusion/{texture}.png")
 	if not isExist:
-		shutil.move(f"textures/processing/upscaled/{texture}.png", f"textures/stable_diffusion/{texture}.png")
+		shutil.move(f"textures/processing/diffuse/{texture}.png", f"textures/stable_diffusion/{texture}.png")
 
 	binary_fc = open(f"textures/stable_diffusion/{texture}.png", 'rb').read()
 	encoded_string = base64.b64encode(binary_fc).decode('utf-8')
@@ -41,13 +41,13 @@ def img2img( address, prompt, texture, steps, strength ):
 
 		pnginfo = PngImagePlugin.PngInfo()
 		pnginfo.add_text("parameters", response2.json().get("info"))
-		image.save(f"textures/processing/upscaled/{texture}.png", pnginfo=pnginfo)
+		image.save(f"textures/processing/diffuse/{texture}.png", pnginfo=pnginfo)
 
 	return "Done!"
 
 def return_back( texture ):
 	import shutil
 	import os
-	os.remove(f"textures/processing/upscaled/{texture}.png")
-	shutil.move(f"textures/stable_diffusion/{texture}.png", f"textures/processing/upscaled/{texture}.png")
+	os.remove(f"textures/processing/diffuse/{texture}.png")
+	shutil.move(f"textures/stable_diffusion/{texture}.png", f"textures/processing/diffuse/{texture}.png")
 	return "Done!"

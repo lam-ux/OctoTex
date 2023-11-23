@@ -29,10 +29,10 @@ def upscaleTextures2X():
 			shutil.move(f"textures/processing/diffuse/{x}", f"textures/processing/lowres/{x}")
 
 
-	dirList = os.listdir("textures/processing/upscaled/")
+	dirList = os.listdir("textures/processing/diffuse/")
 	for x in tqdm( dirList, desc="Moving upscaled to diffuse..." ):
 		if x.endswith(".png"):
-			shutil.move(f"textures/processing/upscaled/{x}", f"textures/processing/diffuse/{x}")
+			shutil.move(f"textures/processing/diffuse/{x}", f"textures/processing/diffuse/{x}")
 	
 	print("Upscaling second time")
 	if( "Real" in config.upscale_model ):

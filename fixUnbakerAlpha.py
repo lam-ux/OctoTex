@@ -4,12 +4,12 @@ import sys
 from tqdm import tqdm
 from PIL import Image, ImageEnhance
 
-for x in tqdm( os.listdir(f"textures/processing/upscaled/"), desc="Generating..." ):
+for x in tqdm( os.listdir(f"textures/processing/diffuse/"), desc="Generating..." ):
 	if x.endswith(".png"):
 		#LightspeedOctahedralConverter.convert_dx_file_to_octahedral(f"textures/processing/normaldx/{x}", f"textures/processing/normals/{x}")
 
 		source_image = Image.open(f"textures/processing/baked/{x}")
-		target_image = Image.open(f"textures/processing/upscaled/{x}")
+		target_image = Image.open(f"textures/processing/diffuse/{x}")
 
 		source_image = source_image.convert("RGBA")
 		target_image = target_image.convert("RGBA")
@@ -24,4 +24,4 @@ for x in tqdm( os.listdir(f"textures/processing/upscaled/"), desc="Generating...
 		new_image = Image.merge("RGBA", (target_image.split()[:3] + (alpha_channel,)))
 
 		# Save the new image with the replaced alpha channel
-		new_image.save(f"textures/processing/upscaled/{x}")
+		new_image.save(f"textures/processing/diffuse/{x}")

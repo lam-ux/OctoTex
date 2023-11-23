@@ -38,7 +38,7 @@ def upscaleAll():
         img = cv2.imread(path.replace("..","."), cv2.IMREAD_COLOR)
         height, width, channels = img.shape
         if( height > 2047 and width > 1023 ):
-            cv2.imwrite("textures/processing/upscaled/{:s}.png".format(base).replace("..","."), img)
+            cv2.imwrite("textures/processing/diffuse/{:s}.png".format(base).replace("..","."), img)
             continue
 
         img = img * 1.0 / 255
@@ -50,7 +50,7 @@ def upscaleAll():
             output = model(img_LR).data.squeeze().float().cpu().clamp_(0, 1).numpy()
         output = np.transpose(output[[2, 1, 0], :, :], (1, 2, 0))
         output = (output * 255.0).round()
-        cv2.imwrite("textures/processing/upscaled/{:s}.png".format(base).replace("..","."), output)
+        cv2.imwrite("textures/processing/diffuse/{:s}.png".format(base).replace("..","."), output)
         hasherObj.add_upscaled(path.replace("..","."))
         gc.collect()
 
@@ -79,7 +79,7 @@ def upscaleFile( name ):
     img = cv2.imread(path.replace("..","."), cv2.IMREAD_COLOR)
     height, width, channels = img.shape
     if( height > 2047 and width > 1023 ):
-        cv2.imwrite("textures/processing/upscaled/{:s}.png".format(base), img)
+        cv2.imwrite("textures/processing/diffuse/{:s}.png".format(base), img)
         return
 
     img = img * 1.0 / 255
@@ -91,5 +91,5 @@ def upscaleFile( name ):
         output = model(img_LR).data.squeeze().float().cpu().clamp_(0, 1).numpy()
     output = np.transpose(output[[2, 1, 0], :, :], (1, 2, 0))
     output = (output * 255.0).round()
-    cv2.imwrite("textures/processing/upscaled/{:s}.png".format(base), output)
+    cv2.imwrite("textures/processing/diffuse/{:s}.png".format(base), output)
     gc.collect()

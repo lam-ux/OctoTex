@@ -118,10 +118,10 @@ def get_material(texture):
 
 
 def normal_single(texture):
-    textureUpscaled = os.path.exists(f"textures/processing/upscaled/{texture}.png")
+    textureUpscaled = os.path.exists(f"textures/processing/diffuse/{texture}.png")
     path = f"textures/processing/diffuse/{texture}.png"
     if (textureUpscaled):
-        path = f"textures/processing/upscaled/{texture}.png"
+        path = f"textures/processing/diffuse/{texture}.png"
 
     generate_normal(
         path,
@@ -136,10 +136,10 @@ def normal_single(texture):
 
 
 def roughness_single(texture):
-    textureUpscaled = os.path.exists(f"textures/processing/upscaled/{texture}.png")
+    textureUpscaled = os.path.exists(f"textures/processing/diffuse/{texture}.png")
     path = f"textures/processing/diffuse/{texture}.png"
     if (textureUpscaled):
-        path = f"textures/processing/upscaled/{texture}.png"
+        path = f"textures/processing/diffuse/{texture}.png"
 
     generate_roughness(
         path,
@@ -148,10 +148,10 @@ def roughness_single(texture):
 
 
 def metalness_single(texture):
-    textureUpscaled = os.path.exists(f"textures/processing/upscaled/{texture}.png")
+    textureUpscaled = os.path.exists(f"textures/processing/diffuse/{texture}.png")
     path = f"textures/processing/diffuse/{texture}.png"
     if (textureUpscaled):
-        path = f"textures/processing/upscaled/{texture}.png"
+        path = f"textures/processing/diffuse/{texture}.png"
 
     generate_metalness(
         path,
@@ -160,7 +160,7 @@ def metalness_single(texture):
 
 
 def textures_list():
-    Upscaled = os.listdir("textures/processing/upscaled/")
+    Upscaled = os.listdir("textures/processing/diffuse/")
     Diffuse = os.listdir("textures/processing/diffuse/")
     array_files = []
 
@@ -191,7 +191,7 @@ def tabs_list():
 
 
 def unupscale(texture):
-    os.remove(f"textures/processing/upscaled/{texture}.png")
+    os.remove(f"textures/processing/diffuse/{texture}.png")
     return "Removed!"
 
 
@@ -225,10 +225,10 @@ def remove_all_pbr(texture):
 
 
 def ai_normal_single(texture):
-    textureUpscaled = os.path.exists(f"textures/processing/upscaled/{texture}.png")
+    textureUpscaled = os.path.exists(f"textures/processing/diffuse/{texture}.png")
     path = f"textures/processing/diffuse/{texture}.png"
     if (textureUpscaled):
-        path = f"textures/processing/upscaled/{texture}.png"
+        path = f"textures/processing/diffuse/{texture}.png"
 
     import gc
     import torch
@@ -261,7 +261,7 @@ def ai_unbake_single(texture):
         os.makedirs("textures/processing/baked")
 
     if (not textureUnbaked):
-        shutil.move(f"textures/processing/upscaled/{texture}.png", f"textures/processing/baked/{texture}.png")
+        shutil.move(f"textures/processing/diffuse/{texture}.png", f"textures/processing/baked/{texture}.png")
 
     import gc
     import torch
@@ -275,16 +275,16 @@ def ai_unbake_single(texture):
     checkpoint = torch.load(PATH_CHK)
     norm_net.load_state_dict(checkpoint["model"])
 
-    unbakes.generateUnbakeSingle(norm_net, f"textures/processing/baked/{texture}.png", "textures/processing/upscaled")
+    unbakes.generateUnbakeSingle(norm_net, f"textures/processing/baked/{texture}.png", "textures/processing/diffuse")
 
     return "Unbaking is done!"
 
 
 def ai_roughness_single(texture):
-    textureUpscaled = os.path.exists(f"textures/processing/upscaled/{texture}.png")
+    textureUpscaled = os.path.exists(f"textures/processing/diffuse/{texture}.png")
     path = f"textures/processing/diffuse/{texture}.png"
     if (textureUpscaled):
-        path = f"textures/processing/upscaled/{texture}.png"
+        path = f"textures/processing/diffuse/{texture}.png"
 
     import gc
     import torch
@@ -303,10 +303,10 @@ def ai_roughness_single(texture):
 
 
 def ai_parallax_single(texture):
-    textureUpscaled = os.path.exists(f"textures/processing/upscaled/{texture}.png")
+    textureUpscaled = os.path.exists(f"textures/processing/diffuse/{texture}.png")
     path = f"textures/processing/diffuse/{texture}.png"
     if (textureUpscaled):
-        path = f"textures/processing/upscaled/{texture}.png"
+        path = f"textures/processing/diffuse/{texture}.png"
 
     import gc
     import torch
@@ -367,7 +367,7 @@ def upscale_single8(texture):
             os.makedirs("textures/processing/lowres")
 
         shutil.move(f"textures/processing/diffuse/{texture}.png", f"textures/processing/lowres/{texture}.png")
-        shutil.move(f"textures/processing/upscaled/{texture}.png", f"textures/processing/diffuse/{texture}.png")
+        shutil.move(f"textures/processing/diffuse/{texture}.png", f"textures/processing/diffuse/{texture}.png")
 
         print("Upscaling second time")
         if ("Real" in config.upscale_model):

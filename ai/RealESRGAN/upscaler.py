@@ -33,7 +33,7 @@ def upscaleAll():
         gpu_id=0)
 
     files = "textures/processing/diffuse/"
-    output_dir = "textures/processing/upscaled/"
+    output_dir = "textures/processing/diffuse/"
 
     paths = sorted(glob.glob(os.path.join(files, '*')))
 
@@ -56,7 +56,7 @@ def upscaleAll():
         except RuntimeError as error:
             print('Error', error)
             print('If you encounter CUDA out of memory, just moving the file...')
-            shutil.move(f"textures/processing/diffuse/{imgname}.{extension}".replace("..","."), f"textures/processing/upscaled/{imgname}.{extension}".replace("..","."))
+            shutil.move(f"textures/processing/diffuse/{imgname}.{extension}".replace("..","."), f"textures/processing/diffuse/{imgname}.{extension}".replace("..","."))
         except Exception as e:
             print(e)
         else:
@@ -95,7 +95,7 @@ def upscaleFile( file ):
         gpu_id=0)
 
     path = ("textures/processing/diffuse/" + file + ".png").replace("..",".")
-    output_dir = "textures/processing/upscaled/"
+    output_dir = "textures/processing/diffuse/"
 
     imgname, extension = os.path.splitext(os.path.basename(path))
     #print(idx, imgname)

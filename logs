@@ -1,0 +1,620 @@
+
+[Errno 2] No such file or directory: 'textures/processing/diffuse/02982B018AFB7CD2.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/04BAF348E5AD784D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/0CC9339EE98032C8.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/198269CCB57B7B76.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/2F330BD040C499F1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/2FB58BDFE1528B3A.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/328CE786B33D5E91.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/36DA5E6DF57F2BBA.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/3EA4478852FDA974.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/49AE3C917C0BDF51.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/518587EA102DA5E9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/5623FADCD30C90ED.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/57E81E0A65E2AF68.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/61B343D906652C48.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/6614DC60EE20EE92.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7238640C42FF8FB9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/72E977D2E73036B1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/74B3DD0DE7F0EBC5.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/765D655A195276C9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/78692B84A47888BE.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7A619D021C573F04.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7F07007C4763204C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8869CBB670D4E630.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8A45CA4F69883C5F.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8A611C8496D66F9C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/90B63328CD155524.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/911798ED35212DFD.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/97C7CEC206581360.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9A68D78681521F34.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9D3EE2A39091590B.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9DDA545F31561277.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A3D74B549F5E7277.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A595520CD59F6DD0.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A627F6DC5505B75D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A65293BE7EA5F7B7.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A81EBF8A58D91E91.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/AB5076BDE7C74ADC.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/AE68CA02E9DC6EC1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/B3B0F619CDD6C497.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BA2FA99F85CFD3C5.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BBB7C7E9375B91F9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C07AAB325E876394.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C5CBCB760FDC8E83.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C7CF115B3E05252D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/CF38EC26E7F4FC2D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D4778872D501382F.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D4E619398DC4E5CF.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/DEF8C41B7F32BDED.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/EB27BB8CBB53BD86.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/EE8B91C5313A8470.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F448409A92402C04.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F52E9EEA18545B9E.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F8987ECE04E629A1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F917ED6A25ED0380.png'
+Unimplemented pixel format b'q\x00\x00\x00'
+Unimplemented pixel format b'q\x00\x00\x00'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/02982B018AFB7CD2.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/04BAF348E5AD784D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/0CC9339EE98032C8.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/198269CCB57B7B76.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/2F330BD040C499F1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/2FB58BDFE1528B3A.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/328CE786B33D5E91.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/36DA5E6DF57F2BBA.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/3EA4478852FDA974.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/49AE3C917C0BDF51.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/518587EA102DA5E9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/5623FADCD30C90ED.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/57E81E0A65E2AF68.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/61B343D906652C48.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/6614DC60EE20EE92.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7238640C42FF8FB9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/72E977D2E73036B1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/74B3DD0DE7F0EBC5.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/765D655A195276C9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/78692B84A47888BE.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7A619D021C573F04.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7F07007C4763204C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8869CBB670D4E630.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8A45CA4F69883C5F.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8A611C8496D66F9C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/90B63328CD155524.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/911798ED35212DFD.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/97C7CEC206581360.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9A68D78681521F34.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9D3EE2A39091590B.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9DDA545F31561277.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A3D74B549F5E7277.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A595520CD59F6DD0.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A627F6DC5505B75D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A65293BE7EA5F7B7.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A81EBF8A58D91E91.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/AB5076BDE7C74ADC.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/AE68CA02E9DC6EC1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/B3B0F619CDD6C497.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BA2FA99F85CFD3C5.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BBB7C7E9375B91F9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C07AAB325E876394.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C5CBCB760FDC8E83.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C7CF115B3E05252D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/CF38EC26E7F4FC2D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D4778872D501382F.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D4E619398DC4E5CF.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/DEF8C41B7F32BDED.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/EB27BB8CBB53BD86.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/EE8B91C5313A8470.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F448409A92402C04.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F52E9EEA18545B9E.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F8987ECE04E629A1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F917ED6A25ED0380.png'
+Unimplemented pixel format b'q\x00\x00\x00'
+Unimplemented pixel format b'q\x00\x00\x00'
+unable to open image 'textures/processing/metallness/02982B018AFB7CD2_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/04BAF348E5AD784D_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0CC9339EE98032C8_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/198269CCB57B7B76_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2F330BD040C499F1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2FB58BDFE1528B3A_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/328CE786B33D5E91_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/36DA5E6DF57F2BBA_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3EA4478852FDA974_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/518587EA102DA5E9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/518587EA102DA5E9_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/518587EA102DA5E9_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/518587EA102DA5E9_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/5623FADCD30C90ED_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/5623FADCD30C90ED_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/5623FADCD30C90ED_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/5623FADCD30C90ED_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/57E81E0A65E2AF68_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/57E81E0A65E2AF68_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/57E81E0A65E2AF68_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/57E81E0A65E2AF68_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/61B343D906652C48_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/61B343D906652C48_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/61B343D906652C48_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/61B343D906652C48_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6614DC60EE20EE92_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/6614DC60EE20EE92_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/6614DC60EE20EE92_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/6614DC60EE20EE92_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7238640C42FF8FB9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/7238640C42FF8FB9_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/7238640C42FF8FB9_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/7238640C42FF8FB9_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/72E977D2E73036B1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/72E977D2E73036B1_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/72E977D2E73036B1_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/72E977D2E73036B1_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/74B3DD0DE7F0EBC5_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/74B3DD0DE7F0EBC5_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/74B3DD0DE7F0EBC5_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/74B3DD0DE7F0EBC5_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/765D655A195276C9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/765D655A195276C9_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/765D655A195276C9_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/765D655A195276C9_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/78692B84A47888BE_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/78692B84A47888BE_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/78692B84A47888BE_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/78692B84A47888BE_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7A619D021C573F04_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/7A619D021C573F04_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/7A619D021C573F04_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/7A619D021C573F04_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7F07007C4763204C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/7F07007C4763204C_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/7F07007C4763204C_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/7F07007C4763204C_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8869CBB670D4E630_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/8869CBB670D4E630_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/8869CBB670D4E630_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/8869CBB670D4E630_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8A45CA4F69883C5F_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/8A45CA4F69883C5F_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/8A45CA4F69883C5F_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/8A45CA4F69883C5F_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8A611C8496D66F9C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/8A611C8496D66F9C_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/8A611C8496D66F9C_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/8A611C8496D66F9C_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/90B63328CD155524_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/90B63328CD155524_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/90B63328CD155524_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/90B63328CD155524_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/911798ED35212DFD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/911798ED35212DFD_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/911798ED35212DFD_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/911798ED35212DFD_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/97C7CEC206581360_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/97C7CEC206581360_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/97C7CEC206581360_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/97C7CEC206581360_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9A68D78681521F34_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/9A68D78681521F34_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/9A68D78681521F34_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/9A68D78681521F34_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9D3EE2A39091590B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/9D3EE2A39091590B_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/9D3EE2A39091590B_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/9D3EE2A39091590B_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/A595520CD59F6DD0_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/A595520CD59F6DD0_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/A595520CD59F6DD0_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/A595520CD59F6DD0_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/A627F6DC5505B75D_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/A627F6DC5505B75D_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/A627F6DC5505B75D_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/A627F6DC5505B75D_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/A65293BE7EA5F7B7_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/A65293BE7EA5F7B7_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/A65293BE7EA5F7B7_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/A65293BE7EA5F7B7_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/AB5076BDE7C74ADC_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/AB5076BDE7C74ADC_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/AB5076BDE7C74ADC_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/AB5076BDE7C74ADC_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/AE68CA02E9DC6EC1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/AE68CA02E9DC6EC1_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/AE68CA02E9DC6EC1_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/AE68CA02E9DC6EC1_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/B3B0F619CDD6C497_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/B3B0F619CDD6C497_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/B3B0F619CDD6C497_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/B3B0F619CDD6C497_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/BA2FA99F85CFD3C5_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/BA2FA99F85CFD3C5_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/BA2FA99F85CFD3C5_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/BA2FA99F85CFD3C5_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/BBB7C7E9375B91F9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/BBB7C7E9375B91F9_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/BBB7C7E9375B91F9_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/BBB7C7E9375B91F9_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/C07AAB325E876394_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/C07AAB325E876394_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/C07AAB325E876394_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/C07AAB325E876394_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/C5CBCB760FDC8E83_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/C5CBCB760FDC8E83_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/C5CBCB760FDC8E83_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/C5CBCB760FDC8E83_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/C7CF115B3E05252D_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/C7CF115B3E05252D_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/C7CF115B3E05252D_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/C7CF115B3E05252D_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/CF38EC26E7F4FC2D_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/CF38EC26E7F4FC2D_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/CF38EC26E7F4FC2D_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/CF38EC26E7F4FC2D_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/D4778872D501382F_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/D4778872D501382F_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/D4778872D501382F_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/D4778872D501382F_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/D4E619398DC4E5CF_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/D4E619398DC4E5CF_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/D4E619398DC4E5CF_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/D4E619398DC4E5CF_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/DEF8C41B7F32BDED_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/DEF8C41B7F32BDED_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/DEF8C41B7F32BDED_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/DEF8C41B7F32BDED_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/EB27BB8CBB53BD86_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/EB27BB8CBB53BD86_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/EB27BB8CBB53BD86_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/EB27BB8CBB53BD86_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/EE8B91C5313A8470_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/EE8B91C5313A8470_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/EE8B91C5313A8470_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/EE8B91C5313A8470_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/F52E9EEA18545B9E_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/F52E9EEA18545B9E_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/F52E9EEA18545B9E_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/F52E9EEA18545B9E_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/F8987ECE04E629A1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/normals/F8987ECE04E629A1_normal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/roughness/F8987ECE04E629A1_rough.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/displacements/F8987ECE04E629A1_disp.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0DCFEAD8A6028473_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0EBAC5E76DC62D0A_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/240475B68D18C0C8_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2805B3C64AD85377_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2BD347482AFDFECB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2E265D11EE665C81_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2F330BD040C499F1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2FA928531AB1050B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3900F6ABC612E314_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/44F8F8596402F45B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/483FD829B3DAF122_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/5EFA33C4DF11B7EB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6CA4C45F8203E964_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/70CE3EAFB955B358_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/711504B7A39420BA_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/72E977D2E73036B1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/73ECE30692CC83D6_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/765D655A195276C9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7F07007C4763204C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/868C6B15A0CD949B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/893C42DD890A65BD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8A069F0A63D1683F_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8A45CA4F69883C5F_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/90A2F02CC13AFA1C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/97C7CEC206581360_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9BE2907CE863C0A0_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9D3EE2A39091590B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/A595520CD59F6DD0_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/AE68CA02E9DC6EC1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/B2D16A81AB0BC9BE_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/B3B0F619CDD6C497_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/B8601E425853FFB2_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/BA2FA99F85CFD3C5_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/C38B3C68D2D6B18E_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/C480B36A09608914_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/C5CBCB760FDC8E83_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/C84FFAE74E94B1DB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/CB6352C3BB5AA857_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/D4E619398DC4E5CF_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/D76B8D5AC6872917_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/DEF8C41B7F32BDED_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/E27DBE90E3A14A61_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/E7DE1F6B10302E26_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/E95FC003BF53B550_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/F548592173FB864C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/FAC2C53C146F0FF6_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+Unimplemented pixel format b'q\x00\x00\x00'
+unable to open image 'textures/processing/metallness/073E3D840F6D9DAD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0C0DB8D928585471_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/119134EF891ED042_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/152C6407E0D0FB79_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/23AAC12AE9B397BB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3164071EA9EB97C8_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/382D834760AB1488_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3A24C017371B4003_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3E9D23DD856424EA_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/40C4BFA29AA6B799_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/423A8C4294640587_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/4CF474164FCDB888_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/57D7466217430D04_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/5BE624C8F87F6EEF_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/63CFA41C39C15A5F_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6724A36A620C1FA6_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6A6F94B05079B5E9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6B4F6BCE08060671_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6D4034A3ADF57490_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7283B4ECF58D46C3_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/72E977D2E73036B1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7494E6562355F78F_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/765D655A195276C9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7F07007C4763204C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8365B9E17BAF5225_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8DBE45D04D683B34_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9281C4845C6C133D_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/95E0A23DFD42A4F3_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/97C7CEC206581360_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9D3EE2A39091590B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/A83B7FEFE230A8AD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/AE68CA02E9DC6EC1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/B1D9221CD140FFF6_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/B3B0F619CDD6C497_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/BB972EFA9D62445B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+Unimplemented pixel format b'q\x00\x00\x00'
+Unimplemented pixel format b'q\x00\x00\x00'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/00DF97098BFD539C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/0EBAC5E76DC62D0A.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/143D7938C0374B91.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/19CD35AFD52C1B14.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/240475B68D18C0C8.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/2805B3C64AD85377.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/2BD347482AFDFECB.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/2FA928531AB1050B.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/3900F6ABC612E314.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/44F8F8596402F45B.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/483FD829B3DAF122.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/5EFA33C4DF11B7EB.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/6CA4C45F8203E964.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/70CE3EAFB955B358.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/711504B7A39420BA.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/72E977D2E73036B1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/73ECE30692CC83D6.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/76289480016641E1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/765D655A195276C9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7F07007C4763204C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/80B98805CA43B982.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/868C6B15A0CD949B.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/893C42DD890A65BD.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/90A2F02CC13AFA1C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/94C33B76D1C5D53B.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/97C7CEC206581360.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9BE2907CE863C0A0.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9D268BE69C74910D.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9D3EE2A39091590B.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A47D975508CC0194.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/AE68CA02E9DC6EC1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/B2D16A81AB0BC9BE.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/B3B0F619CDD6C497.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/B8601E425853FFB2.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C38B3C68D2D6B18E.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C480B36A09608914.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C84FFAE74E94B1DB.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/CB6352C3BB5AA857.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D4E619398DC4E5CF.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D76B8D5AC6872917.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/E27DBE90E3A14A61.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/E33EA398D94A16BB.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/E95FC003BF53B550.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F548592173FB864C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F65FAB16E0504FF5.png'
+Unimplemented pixel format b'q\x00\x00\x00'
+Unimplemented pixel format b'q\x00\x00\x00'
+unable to open image 'textures/processing/metallness/00DF97098BFD539C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0EBAC5E76DC62D0A_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/143D7938C0374B91_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/19CD35AFD52C1B14_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/240475B68D18C0C8_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2805B3C64AD85377_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2BD347482AFDFECB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2FA928531AB1050B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3900F6ABC612E314_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/44F8F8596402F45B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/483FD829B3DAF122_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/5EFA33C4DF11B7EB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6CA4C45F8203E964_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/70CE3EAFB955B358_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/711504B7A39420BA_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/72E977D2E73036B1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/73ECE30692CC83D6_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/76289480016641E1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/765D655A195276C9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7F07007C4763204C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/80B98805CA43B982_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/868C6B15A0CD949B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/893C42DD890A65BD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/90A2F02CC13AFA1C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/94C33B76D1C5D53B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/00DF97098BFD539C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0EBAC5E76DC62D0A_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/143D7938C0374B91_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/19CD35AFD52C1B14_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/240475B68D18C0C8_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2805B3C64AD85377_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2BD347482AFDFECB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2FA928531AB1050B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3900F6ABC612E314_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/44F8F8596402F45B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/483FD829B3DAF122_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/5EFA33C4DF11B7EB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6CA4C45F8203E964_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/70CE3EAFB955B358_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/711504B7A39420BA_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/72E977D2E73036B1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/73ECE30692CC83D6_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/76289480016641E1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/765D655A195276C9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7F07007C4763204C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/80B98805CA43B982_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/868C6B15A0CD949B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/893C42DD890A65BD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/90A2F02CC13AFA1C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/94C33B76D1C5D53B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/00DF97098BFD539C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0EBAC5E76DC62D0A_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/143D7938C0374B91_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/19CD35AFD52C1B14_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/240475B68D18C0C8_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2805B3C64AD85377_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2BD347482AFDFECB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2FA928531AB1050B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3900F6ABC612E314_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/44F8F8596402F45B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/483FD829B3DAF122_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/5EFA33C4DF11B7EB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6CA4C45F8203E964_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/70CE3EAFB955B358_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/711504B7A39420BA_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/72E977D2E73036B1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/73ECE30692CC83D6_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/76289480016641E1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/765D655A195276C9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7F07007C4763204C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/80B98805CA43B982_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/868C6B15A0CD949B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/893C42DD890A65BD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/90A2F02CC13AFA1C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/94C33B76D1C5D53B_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/97C7CEC206581360_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9BE2907CE863C0A0_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9D268BE69C74910D_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+Unimplemented pixel format b'q\x00\x00\x00'
+unable to open image 'textures/processing/metallness/02982B018AFB7CD2_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/069B8D2AF60CFFB2_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0CC9339EE98032C8_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2FB58BDFE1528B3A_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/328CE786B33D5E91_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3EA4478852FDA974_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/49AE3C917C0BDF51_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/518587EA102DA5E9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/5623FADCD30C90ED_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/57E81E0A65E2AF68_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/59A70172AB359F49_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/61B343D906652C48_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6614DC60EE20EE92_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7238640C42FF8FB9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/74B3DD0DE7F0EBC5_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/78692B84A47888BE_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7A619D021C573F04_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8869CBB670D4E630_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/8A611C8496D66F9C_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/90B63328CD155524_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/911798ED35212DFD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/9DDA545F31561277_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/A3D74B549F5E7277_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/A81EBF8A58D91E91_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/AB5076BDE7C74ADC_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/B3B0F619CDD6C497_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/BACD1291E839C952_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/BBB7C7E9375B91F9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/C07AAB325E876394_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/EB27BB8CBB53BD86_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/EE20E6E85CCCEEE9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/EE8B91C5313A8470_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/F448409A92402C04_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/F69B8302DFC9BDAB_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/F917ED6A25ED0380_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+[Errno 2] No such file or directory: 'textures/processing/diffuse/02982B018AFB7CD2.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/0CC9339EE98032C8.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/18DD673472376106.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/2FB58BDFE1528B3A.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/328CE786B33D5E91.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/36DA5E6DF57F2BBA.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/3EA4478852FDA974.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/40E90604CD978075.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/49AE3C917C0BDF51.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/4F2585E4D3D4BC53.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/518587EA102DA5E9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/5623FADCD30C90ED.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/57E81E0A65E2AF68.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/59A70172AB359F49.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/61B343D906652C48.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/64A2E9E0169AE37F.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/6614DC60EE20EE92.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/6D91134410EEA460.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/71DB665282E3CA70.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7238640C42FF8FB9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/727B75DD886D94FD.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/72E977D2E73036B1.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/74B3DD0DE7F0EBC5.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/74DA82D7B244FEDE.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/765D655A195276C9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/78692B84A47888BE.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7A619D021C573F04.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7D1A1C7C2AB811C2.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/7F07007C4763204C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8265B627BDD90205.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/86F466E7C3BD7787.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8869CBB670D4E630.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/88E35288970BFEDE.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8A3F90FEDA1B9BF4.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/8A611C8496D66F9C.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/90B63328CD155524.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/911798ED35212DFD.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/92B0BCDFC16CB1EB.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/92D3C9F7B071A5C7.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/976F8C74DA654B10.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/97C7CEC206581360.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9D3EE2A39091590B.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9DAB29B4DC137BAB.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/9DDA545F31561277.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A2B16B322DE45980.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A3D74B549F5E7277.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/A81EBF8A58D91E91.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/AB5076BDE7C74ADC.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/B3B0F619CDD6C497.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BACD1291E839C952.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BB7BC3ECF7ACBA6A.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BBB7C7E9375B91F9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BCF7B6A4A980C322.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/BEEC6B226AF7AE99.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C07AAB325E876394.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C18B390EB2857182.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/C49F4DFBB97B0FBB.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D10BEEC931F7EB00.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D4E619398DC4E5CF.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D5263974257A1FE0.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/D629A9361FC30008.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/EB27BB8CBB53BD86.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/EBDC43D5F4E4A9EA.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/ED358FBC6E39CD99.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/EE20E6E85CCCEEE9.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/EE8B91C5313A8470.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F448409A92402C04.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F5C36BB08E72B5E5.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/F917ED6A25ED0380.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/FA94961DCEE24265.png'
+[Errno 2] No such file or directory: 'textures/processing/diffuse/FFAF9388EE44C492.png'
+Unimplemented pixel format b'q\x00\x00\x00'
+Unimplemented pixel format b'q\x00\x00\x00'
+unable to open image 'textures/processing/metallness/02982B018AFB7CD2_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/0CC9339EE98032C8_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/18DD673472376106_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/2FB58BDFE1528B3A_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/328CE786B33D5E91_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/36DA5E6DF57F2BBA_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/3EA4478852FDA974_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/40E90604CD978075_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/49AE3C917C0BDF51_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/4F2585E4D3D4BC53_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/518587EA102DA5E9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/5623FADCD30C90ED_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/57E81E0A65E2AF68_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/59A70172AB359F49_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/61B343D906652C48_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/64A2E9E0169AE37F_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6614DC60EE20EE92_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/6D91134410EEA460_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/71DB665282E3CA70_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/7238640C42FF8FB9_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/727B75DD886D94FD_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/72E977D2E73036B1_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/74B3DD0DE7F0EBC5_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573
+unable to open image 'textures/processing/metallness/74DA82D7B244FEDE_metal.png': No such file or directory @ error/blob.c/OpenBlob/3573

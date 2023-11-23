@@ -88,7 +88,7 @@ def aiGenerateDisplacements():
 	checkpoint = torch.load(PATH_CHK)
 	norm_net.load_state_dict(checkpoint["model"])
 
-	displacements.generateDisp(norm_net,"textures/processing/upscaled","textures/processing/displacements")
+	displacements.generateDisp(norm_net,"textures/processing/diffuse","textures/processing/displacements")
 	messagebox.showinfo("AI", f"Normal map generation is done!")
 	updateTextureTree()
 
@@ -107,7 +107,7 @@ def aiGenerateRoughness():
 	checkpoint = torch.load(PATH_CHK)
 	norm_net.load_state_dict(checkpoint["model"])
 
-	roughness.generateRough(norm_net,"textures/processing/upscaled","textures/processing/roughness")
+	roughness.generateRough(norm_net,"textures/processing/diffuse","textures/processing/roughness")
 	messagebox.showinfo("AI", f"Rough map generation is done!")
 	updateTextureTree()
 
@@ -126,7 +126,7 @@ def aiGenerateNormals():
 	checkpoint = torch.load(PATH_CHK)
 	norm_net.load_state_dict(checkpoint["model"])
 
-	normals.generateNorm(norm_net,"textures/processing/upscaled","textures/processing/normaldx")
+	normals.generateNorm(norm_net,"textures/processing/diffuse","textures/processing/normaldx")
 	for x in tqdm( os.listdir(f"textures/processing/normaldx/"), desc="Generating..." ):
 		if x.endswith(".png"):
 			LightspeedOctahedralConverter.convert_dx_file_to_octahedral(f"textures/processing/normaldx/{x}", f"textures/processing/normals/{x}")
@@ -455,7 +455,7 @@ if __name__ == '__main__':
 	tree.heading('name', text='textures')
 
 	def updateTextureTree():
-		Upscaled = os.listdir("textures/processing/upscaled/")
+		Upscaled = os.listdir("textures/processing/diffuse/")
 		Diffuse = os.listdir("textures/processing/diffuse/")
 
 		
@@ -468,15 +468,15 @@ if __name__ == '__main__':
 		# add data to the treeview
 		for x in range(len(Upscaled)):
 			temp = Upscaled[x]
-			#icon = PhotoImage(file=f"textures/processing/upscaled/{temp}")
-			tree.insert('', tkinter.END, values=(temp,f"textures/processing/upscaled/{temp}"))
+			#icon = PhotoImage(file=f"textures/processing/diffuse/{temp}")
+			tree.insert('', tkinter.END, values=(temp,f"textures/processing/diffuse/{temp}"))
 			alreadyWas.append(temp)
 
 		for x in range(len(Diffuse)):
 			temp = Diffuse[x]
 			if( temp in alreadyWas ):
 				continue
-			#icon = PhotoImage(file=f"textures/processing/upscaled/{temp}")
+			#icon = PhotoImage(file=f"textures/processing/diffuse/{temp}")
 			tree.insert('', tkinter.END, values=(temp,f"textures/processing/diffuse/{temp}"))
 
 	updateTextureTree()

@@ -22,7 +22,7 @@ Put the new model to the
 Folder!
 
 ## Attention
-If you don't want or cannot use upscaler, just drag all the textures from remixer/textures/processing/diffuse folder to the remixer/textures/processing/upscaled folder.
+If you don't want or cannot use upscaler, just drag all the textures from remixer/textures/processing/diffuse folder to the remixer/textures/processing/diffuse folder.
 For the first time, all of the steps may take a while, then the process will be faster.
 
 ## New Steps
@@ -30,7 +30,7 @@ For the first time, all of the steps may take a while, then the process will be 
 
 ## Outdated Steps
 1. python load.py ( then select from what folder you want to load textures )                   // Textures will be in the textures/processing/diffuse folder
-2. python upscale.py ( you will need an Nvidia GPU, pytorch with cuda support installed )      // Textures will be in the textures/processing/upscaled folder
+2. python upscale.py ( you will need an Nvidia GPU, pytorch with cuda support installed )      // Textures will be in the textures/processing/diffuse folder
 3. python pbr.py ( this will generate all the pbr textures to the their folders )              // Textures will be in the textures/processing/normals ** roughness ** metallness folders
 4. python write.py ( this will write all the changes back, it will promt to what mod you want to write it, IT'S RECOMENDED TO CREATE A NEW MOD! )
 And that's it!
