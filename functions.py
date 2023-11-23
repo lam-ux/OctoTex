@@ -475,7 +475,7 @@ def generate_pbr_ai():
     checkpoint = torch.load(PATH_CHK)
     norm_net.load_state_dict(checkpoint["model"])
 
-    normals.generateNorm(norm_net, "textures/processing/upscaled", "textures/processing/normaldx")
+    normals.generateNorm(norm_net, "textures/processing/diffuse", "textures/processing/normaldx")
     for x in tqdm(os.listdir(f"textures/processing/normaldx/"), desc="Generating..."):
         if x.endswith(".png"):
             LightspeedOctahedralConverter.convert_dx_file_to_octahedral(f"textures/processing/normaldx/{x}",
@@ -487,11 +487,11 @@ def generate_pbr_ai():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     PATH_CHK = "ai/PBR/checkpoints/rough/rough_net_last.pth"
 
-    norm_net = RoughnessModel().to(device)
+    norm_net = Unet(8).to(device)
     checkpoint = torch.load(PATH_CHK)
     norm_net.load_state_dict(checkpoint)
 
-    roughness.generateRough(norm_net, "textures/processing/upscaled", "textures/processing/roughness")
+    roughness.generateRough(norm_net, "textures/processing/diffuse", "textures/processing/roughness")
     torch.cuda.empty_cache()
     gc.collect()
 
@@ -502,6 +502,6 @@ def generate_pbr_ai():
     checkpoint = torch.load(PATH_CHK)
     norm_net.load_state_dict(checkpoint["model"])
 
-    displacements.generateDisp(norm_net, "textures/processing/upscaled", "textures/processing/displacements")
+    displacements.generateDisp(norm_net, "textures/processing/diffuse", "textures/processing/displacements")
 
     return "Global AI PBR generation is done!"
