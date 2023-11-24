@@ -15,7 +15,7 @@ Put the old models to the
   2. OctoTex/ai/PBR/checkpoints/norm
 Folders!
 
-And <a href="https://drive.google.com/file/d/12xHNe7XNvMnVxStgSHVGGvZiEO4KjoGj/view?usp=sharing" >New Roughness Model on Gdrive</a>
+And <a href="https://drive.google.com/file/d/16rBteaAnbh9GRHKLWalb9-x45sfarM17/view?usp=sharing" >New Roughness Model on Gdrive</a>
 
 Put the new model to the
   1. OctoTex/ai/PBR/checkpoints/rough
