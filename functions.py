@@ -17,7 +17,6 @@ from generation.normals import *
 from generation.metalness import *
 from generation.roughness import *
 
-from ai.PBR.model_rough import RoughnessModel
 from ai.PBR.model import Unet
 import ai.PBR.eval_disp as displacements
 import ai.PBR.eval_norm as normals
