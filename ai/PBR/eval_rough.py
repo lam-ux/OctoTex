@@ -53,7 +53,7 @@ class TestDataset(Dataset):
         img = Image.open(self.file_list[i]).convert('RGB')
         h, w = img.size
 
-        if (w < 256 or h < 256 or w - 300 > h or h - 300 > w or w > 1024 or h > 1024):
+        if w < 256 or h < 256 or w - 300 > h or h - 300 > w or w > 2048 or h > 2048:
             img = transform(img)
         else:
             img = transformDoNotResize(img)
