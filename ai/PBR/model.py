@@ -15,39 +15,39 @@ def double_conv(in_channels, out_channels):
 
 
 class Unet(nn.Module):
-    def __init__(self, d=64, out_channels=3):
+    def __init__(self, d=64, k=4, out_channels=3):
         super(Unet, self).__init__()
-        self.conv1 = nn.Conv2d(3, d, 4, 2, 1)
-        self.conv2 = nn.Conv2d(d, d * 2, 4, 2, 1)
+        self.conv1 = nn.Conv2d(3, d, k, 2, 1)
+        self.conv2 = nn.Conv2d(d, d * 2, k, 2, 1)
         self.conv2_bn = nn.BatchNorm2d(d * 2)
-        self.conv3 = nn.Conv2d(d * 2, d * 4, 4, 2, 1)
+        self.conv3 = nn.Conv2d(d * 2, d * 4, k, 2, 1)
         self.conv3_bn = nn.BatchNorm2d(d * 4)
-        self.conv4 = nn.Conv2d(d * 4, d * 8, 4, 2, 1)
+        self.conv4 = nn.Conv2d(d * 4, d * 8, k, 2, 1)
         self.conv4_bn = nn.BatchNorm2d(d * 8)
-        self.conv5 = nn.Conv2d(d * 8, d * 8, 4, 2, 1)
+        self.conv5 = nn.Conv2d(d * 8, d * 8, k, 2, 1)
         self.conv5_bn = nn.BatchNorm2d(d * 8)
-        self.conv6 = nn.Conv2d(d * 8, d * 8, 4, 2, 1)
+        self.conv6 = nn.Conv2d(d * 8, d * 8, k, 2, 1)
         self.conv6_bn = nn.BatchNorm2d(d * 8)
-        self.conv7 = nn.Conv2d(d * 8, d * 8, 4, 2, 1)
+        self.conv7 = nn.Conv2d(d * 8, d * 8, k, 2, 1)
         self.conv7_bn = nn.BatchNorm2d(d * 8)
-        self.conv8 = nn.Conv2d(d * 8, d * 8, 4, 2, 1)
+        self.conv8 = nn.Conv2d(d * 8, d * 8, k, 2, 1)
 
-        self.deconv1 = nn.ConvTranspose2d(d * 8, d * 8, 4, 2, 1)
+        self.deconv1 = nn.ConvTranspose2d(d * 8, d * 8, k, 2, 1)
         self.deconv1_bn = nn.BatchNorm2d(d * 8)
-        self.deconv2 = nn.ConvTranspose2d(d * 8 * 2, d * 8, 4, 2, 1)
+        self.deconv2 = nn.ConvTranspose2d(d * 8 * 2, d * 8, k, 2, 1)
         self.deconv2_bn = nn.BatchNorm2d(d * 8)
-        self.deconv3 = nn.ConvTranspose2d(d * 8 * 2, d * 8, 4, 2, 1)
+        self.deconv3 = nn.ConvTranspose2d(d * 8 * 2, d * 8, k, 2, 1)
         self.deconv3_bn = nn.BatchNorm2d(d * 8)
-        self.deconv4 = nn.ConvTranspose2d(d * 8 * 2, d * 8, 4, 2, 1)
+        self.deconv4 = nn.ConvTranspose2d(d * 8 * 2, d * 8, k, 2, 1)
         self.deconv4_bn = nn.BatchNorm2d(d * 8)
-        self.deconv5 = nn.ConvTranspose2d(d * 8 * 2, d * 4, 4, 2, 1)
+        self.deconv5 = nn.ConvTranspose2d(d * 8 * 2, d * 4, k, 2, 1)
         self.deconv5_bn = nn.BatchNorm2d(d * 4)
-        self.deconv6 = nn.ConvTranspose2d(d * 4 * 2, d * 2, 4, 2, 1)
+        self.deconv6 = nn.ConvTranspose2d(d * 4 * 2, d * 2, k, 2, 1)
         self.deconv6_bn = nn.BatchNorm2d(d * 2)
-        self.deconv7 = nn.ConvTranspose2d(d * 2 * 2, d, 4, 2, 1)
+        self.deconv7 = nn.ConvTranspose2d(d * 2 * 2, d, k, 2, 1)
         self.deconv7_bn = nn.BatchNorm2d(d)
         self.deconv8 = nn.Sequential(
-            nn.ConvTranspose2d(d * 2, out_channels, 4, 2, 1),
+            nn.ConvTranspose2d(d * 2, out_channels, k, 2, 1),
             nn.Tanh()
             )
 
