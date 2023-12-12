@@ -1,16 +1,12 @@
+import glob
+import os
+
 import torch
-from torchvision import transforms
+from PIL import Image, ImageEnhance
 from torch.utils.data import DataLoader
 from torch.utils.data import Dataset
+from torchvision import transforms
 from torchvision.utils import save_image
-
-import os
-import glob
-import numpy as np
-from tqdm import tqdm
-from time import sleep
-from PIL import Image, ImageEnhance
-import matplotlib.pyplot as plt
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -88,7 +84,7 @@ def generateRough(net, DIR_FROM, DIR_EVAL):
 
             factor = 0.7
             im_output = bright.enhance(factor)
-            sharp = ImageEnhance.Sharpness(im_output)
+            sharp = ImageEnhance.Contrast(im_output)
 
             factor = 1.5
             im_output = sharp.enhance(factor)
