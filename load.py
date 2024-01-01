@@ -46,15 +46,14 @@ def loadTextures(loadDir, updateFunction=0, show=0, close=0):
                     success += 1
                 with open(f"{config.rtx_remix_dir}/captures/materials/{x}", 'r') as mat:
                     mat = mat.read()
-                with open(f"materials/{x.replace('mat_', '').replace('.usd', '.mat')}", 'w') as mat_n:
-                    mat_n.write(mat)
+                    with open(f"materials/{x.replace('mat_', '').replace('.usd', '.mat')}", 'w') as mat_n:
+                        mat_n.write(mat)
             except Exception as e:
                 f = open("logs", "a")
                 f.write("\n" + str(e))
                 f.close()
 
             steps += 1
-    del mat, mat_n, x
     if (close):
         close(success)
 
