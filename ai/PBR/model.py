@@ -14,9 +14,9 @@ def double_conv(in_channels, out_channels):
     )
 
 
-class Unet(nn.Module):
+class PBR(nn.Module):
     def __init__(self, d=64, k=4, out_channels=3):
-        super(Unet, self).__init__()
+        super(PBR, self).__init__()
         self.conv1 = nn.Conv2d(3, d, k, 2, 1)
         self.conv2 = nn.Conv2d(d, d * 2, k, 2, 1)
         self.conv2_bn = nn.BatchNorm2d(d * 2)

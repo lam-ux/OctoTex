@@ -125,9 +125,9 @@ def generateRoughSingle(net, DIR_FROM, DIR_EVAL):
 
 
 if __name__ == "__main__":
-    from model import Unet
+    from model import PBR
 
-    norm_net = Unet(8).to(device)
+    norm_net = PBR(8).to(device)
     checkpoint = torch.load(PATH_CHK)
     norm_net.load_state_dict(checkpoint)
 
