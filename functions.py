@@ -22,8 +22,6 @@ import ai.PBR.eval_disp as displacements
 import ai.PBR.eval_norm as normals
 import ai.PBR.eval_rough as roughness
 import ai.PBR.eval_unbake as unbakes
-
-sys.path
 sys.path.append('./nvidia')
 from octahedral import *
 import clipboard
@@ -40,7 +38,7 @@ def load_single_capture(texture):
 
 def get_clipboard():
     tempTexture = clipboard.paste()
-    if (tempTexture.lower().isalnum()):
+    if tempTexture.lower().isalnum():
         num = loader.loadSingleTexture(tempTexture)
         print(f"{tempTexture} info: {num}")
 
